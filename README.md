@@ -1,10 +1,10 @@
-#Zhang's Camera Calibration
+# Zhang's Camera Calibration
 
 Implementation of Camera Calibration for camera intrinsic parameters, based on Zhang's auto calibration.
 
 To run the camera calibration code, run `python3 Wrapper.py`
 
-#Checkerboard Images after rectification 
+# Checkerboard Images after rectification 
 ![1](https://user-images.githubusercontent.com/80807952/218406251-7c747c40-0d12-4296-accb-19bfb570deec.jpg)
 
 
